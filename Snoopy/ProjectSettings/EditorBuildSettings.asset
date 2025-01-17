@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CfgScene.unity
+    guid: 38e5259ff1055664ba64874656828388
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: de6a93da3805eda46a87673541ebd5a6
+  - enabled: 1
+    path: Assets/Scenes/InGame/HallScene.unity
+    guid: da0fb6489490c7d46ad44e7565922795
+  - enabled: 1
+    path: Assets/Scenes/InGame/BedRoomScene.unity
+    guid: 622424b1c486cc74abd52faf44a27d0d
+  - enabled: 1
+    path: Assets/Scenes/InGame/MusicRoomScene.unity
+    guid: 79598e5545a36334bad8a1b68635b004
+  - enabled: 1
+    path: Assets/Scenes/InGame/LivingRoomScene.unity
+    guid: e68b17b98a4c139488b563607c708f80
+  - enabled: 1
+    path: Assets/Scenes/InGame/LabRoomScene.unity
+    guid: 3d21f43fa0e28364f9e4a91cd3d33fa3
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGameSc1.unity
+    guid: 3d092119c65877548b952221ed5afc3f
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGameSc2.unity
+    guid: 8a181c7aee7a8624cacd91deb3a902bc
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGameSc3.unity
+    guid: 851acb76104af744eafb58386004fddb
+  - enabled: 1
+    path: Assets/Scenes/MiniGame/MiniGameSc4.unity
+    guid: 8bdccffe92d15d24ebacb3b8e0cb0ead
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 6cfe89ba767de7f4baa792a34fb70e69
+  m_configObjects: {}

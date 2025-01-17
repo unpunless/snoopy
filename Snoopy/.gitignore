@@ -1,0 +1,14 @@
+*.csproj
+*.suo
+
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/Library/Artifacts/
+/Library/Bee/
+
+.vs/
